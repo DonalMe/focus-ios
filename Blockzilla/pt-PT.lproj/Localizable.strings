@@ -98,7 +98,7 @@
 "Autocomplete.mySites" = "Meus sites";
 
 /* Description for adding and managing custom autocomplete URLs. The placeholder is replaced with the application name, which can be either Firefox Focus or Firefox Klar. */
-"Autocomplete.mySitesDesc" = "Ativar para ter o %@ a concluir automaticamente os seus URLs favoritos.";
+"Autocomplete.mySitesDesc" = "Ativar para ter o %@ a concluir automaticamente os seus URL favoritos.";
 
 /* Label for enabling or disabling top sites */
 "Autocomplete.topSites" = "Sites mais visitados";
@@ -134,7 +134,7 @@
 "browserShortcutDescription.selectLocationBar" = "Selecionar barra de localização";
 
 /* Label on button to complete edits */
-"Done" = "Feito";
+"Done" = "Concluído";
 
 /* Label on button to allow edits */
 "Edit" = "Editar";
@@ -161,7 +161,7 @@
 "ExternalLink.emailButton" = "Email";
 
 /* Accessibility label for done button in Find in Page Toolbar. */
-"FindInPage.Done" = "Localizar na página feito";
+"FindInPage.Done" = "Localizar na página concluído";
 
 /* Accessibility label for next result button in Find in Page Toolbar. */
 "FindInPage.NextResult" = "Localizar seguinte na página";
@@ -291,6 +291,9 @@
 
 /* Subtitle for Send Anonymous Usage Data toggle on main screen */
 "Settings.learnMore" = "Saber mais.";
+
+/* Lincese option in settings menu. Tapping the cell will take the user to a list of licences for the 3rd parties used in the app. */
+"Settings.licenses" = "Licenças";
 
 /* Light theme option in settings menu */
 "Settings.lightTheme" = "Claro";
